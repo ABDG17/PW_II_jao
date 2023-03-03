@@ -1,0 +1,14 @@
+{
+  "name": "aula-0902",
+  "version": "1.0.0",
+  "description": "Aula de PW2 Fev09",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PW2"
+  ],
+  "author": "Olga e João",
+  "license": "MIT"
+}
